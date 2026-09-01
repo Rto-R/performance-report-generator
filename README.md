@@ -1,5 +1,4 @@
 # performance-report-generator
-# Performance Report Generator
 
 A tool that turns raw psychometric data into detailed, individualized performance reports — powered by the Claude API.
 
